@@ -1,5 +1,5 @@
 {
-  "name": "plus-ui",
+  "name": "lyplus-ui",
   "version": "1.0.0",
   "description": "基于 vue-cli3 的 UI 组件库",
   "main": "lib/plus-ui.umd.min.js",
